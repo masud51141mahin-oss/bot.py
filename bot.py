@@ -23,8 +23,8 @@ from telegram.ext import (
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # Master Setup (Credentials)
-MAIN_BOT_TOKEN = "9188033857:AAEaeSueEqipP5OfN1zekAX4hqY3IAzzpnk"
-SUPER_ADMIN_ID = 8674696856
+MAIN_BOT_TOKEN = "9202362425:AAE-dQ8eF3A7maSElTiThqumQ9Ym7w7yANM"
+SUPER_ADMIN_ID = 8252029761
 CONFIG_FILE = "config.json"
 
 # Master Passwords (Hardcoded & Forever Hidden)
